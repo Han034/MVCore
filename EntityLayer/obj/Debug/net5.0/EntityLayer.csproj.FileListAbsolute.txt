@@ -1,0 +1,12 @@
+C:\Users\gezeg\source\repos\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\gezeg\source\repos\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gezeg\source\repos\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\gezeg\source\repos\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
